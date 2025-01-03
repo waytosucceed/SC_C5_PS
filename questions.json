@@ -1,0 +1,107 @@
+{
+  "heading": "Loops",
+  "topics": [
+    {
+      "heading": "Loops",
+      "questions":
+      [
+        {
+          "questionNo": 1,
+          "question": "What does <img src='./assests/images/question/1.png' width='35%'> block do?",
+          "options": [
+            {
+              "text": "Makes the sprite move in a loop."
+            },
+            {
+              "text": "Performs an action only if a condition is true."
+            },
+            {
+              "text": "Changes the size of a sprite."
+            },
+            {
+              "text": "Repeats an action a fixed number of times."
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Which block resets the sprite’s appearance to normal?",
+          "options": [
+            {
+              "image":"./assests/images/option/1.png"
+            },
+            {
+              "image":"./assests/images/option/2.png"
+            },
+            {
+              "image":"./assests/images/option/3.png"
+            },
+            {
+              "image":"./assests/images/option/4.png"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "What happens when you put an if then block inside a forever block?",
+          "options": [
+            {
+              "text": "The condition is checked continuously."
+            },
+            {
+              "text": "The program stops."
+            },
+            {
+              "text": "The sprite disappears."
+            },
+            {
+              "text": "The sprite always moves to the right."
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "How can you make the sprite's color change each time it touches the mouse pointer?",
+          "options": [
+            {
+              "image":"./assests/images/option/1.png"
+            },
+            {
+              "image":"./assests/images/option/2.png"
+            },
+            {
+              "image":"./assests/images/option/5.png"
+            },
+            {
+              "image":"./assests/images/option/6.png"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Which block checks if a sprite is touching another sprite?",
+          "options": [
+            {
+              "text": "Touching edge"
+            },
+            {
+              "text": "Touching mouse pointer"
+            },
+            {
+              "text": "Touching another sprite"
+            },
+            {
+              "text": "When sprite is clicked"
+            }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    }
+  ]
+}
